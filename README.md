@@ -1,6 +1,17 @@
 
 # Hi!
 #### I'm Juan Pablo, Frontend Developer based in Berlin.
+
+you can also find me on 
+<a href="https://jpbaez.com/" title="Website"><img src="https://upload.wikimedia.org/wikipedia/commons/archive/c/c4/20180308223846%21Globe_icon.svg" /></a>
+
+[![Mail](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/High-contrast-emblem-mail.svg/48px-High-contrast-emblem-mail.svg.png)](mailto:contact@jpbaez.com)
+
+<a href="https://www.instagram.com/jp_baez/" title="Instagram"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Instagram_simple_icon.svg" /></a>
+
+<br/>
+<br/>
+
 ### Languages and Tools:
 <img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
 
