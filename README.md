@@ -1,6 +1,6 @@
 
 
-<img align="left" alt="hello" height="50px" width="" src="https://media.giphy.com/media/Titt7WbFzurny/giphy.gif" />
+<img align="left" alt="hello" height="75px" width="" src="https://media.giphy.com/media/Titt7WbFzurny/giphy.gif" />
 
 </br>
 </br>
