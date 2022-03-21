@@ -11,9 +11,7 @@
 you can also find me on 
 
 <a href="https://jpbaez.com/" title="Website"  target="_blank" rel="nofollow"><img width="35px"  src="https://upload.wikimedia.org/wikipedia/commons/archive/c/c4/20180308223846%21Globe_icon.svg" /></a>
-
  <a href="mailto:contact@jpbaez.com"><img height="35px"  src="https://svgsilh.com/svg/147563.svg" /></a> 
- 
  <a href="https://www.linkedin.com/in/juan-pablo-baez-4b592235/" title="Linkedin"  target="_blank" rel="nofollow"><img width="35px" src="https://upload.wikimedia.org/wikipedia/commons/b/be/LinkedIn_logo_In-Black.svg" /></a>  <a href="https://www.instagram.com/jp_baez/" title="Instagram"  target="_blank" rel="nofollow"><img width="35px" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Instagram_simple_icon.svg" /></a>
 
 </br>
