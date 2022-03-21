@@ -1,6 +1,7 @@
 
 # Hi!
 <img align="left" alt="hello" height="50px" src="https://media.giphy.com/media/Titt7WbFzurny/giphy.gif" />
+
 #### I'm Juan Pablo, Frontend Developer based in Berlin.
 
 you can also find me on 
