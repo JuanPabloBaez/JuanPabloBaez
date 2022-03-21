@@ -1,6 +1,6 @@
 
 # Hi!
-####I'm Juan Pablo, Frontend Developer based in Berlin.
+#### I'm Juan Pablo, Frontend Developer based in Berlin.
 ### Languages and Tools:
 <img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
 
@@ -28,6 +28,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minoveaz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/1k2yk7r1YOzxhciuUPGopI?si=90b5084aab214719)
+##🎧
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11139176730&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
