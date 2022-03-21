@@ -6,7 +6,7 @@
 </br>
 
 
-#### I'm Juan Pablo, Frontend Developer based in Berlin.
+## I'm Juan Pablo, Frontend Developer based in Berlin.
 
 you can also find me on 
 
@@ -16,7 +16,7 @@ you can also find me on
 
 </br>
 
-Do you like films? :movie_camera:  then visit my project  <a href="https://beatkino.com/" title="Beatkino" rel="nofollow" target="_blank" ><strong>Beatkino</strong></a>
+### Do you like films? :movie_camera:  then visit my project  <a href="https://beatkino.com/" title="Beatkino" rel="nofollow" target="_blank" ><strong>Beatkino</strong></a>
 
 ### Languages and Tools:
 <img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
