@@ -14,7 +14,6 @@ you can also find me on
  <a href="mailto:contact@jpbaez.com"><img height="35px"  src="https://svgsilh.com/svg/147563.svg" /></a> 
  <a href="https://www.linkedin.com/in/juan-pablo-baez-4b592235/" title="Linkedin"  target="_blank" rel="nofollow"><img width="35px" src="https://upload.wikimedia.org/wikipedia/commons/b/be/LinkedIn_logo_In-Black.svg" /></a>  <a href="https://www.instagram.com/jp_baez/" title="Instagram"  target="_blank" rel="nofollow"><img width="35px" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Instagram_simple_icon.svg" /></a>
 
-</br>
 
 #### Do you like films? :movie_camera:  then visit my project  <a href="https://beatkino.com/" title="Beatkino" rel="nofollow" target="_blank" ><strong>Beatkino</strong></a>
 
