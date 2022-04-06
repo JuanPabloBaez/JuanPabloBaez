@@ -28,7 +28,7 @@
 
 <img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
 
-<img align="left" alt="Sass" width="26px" src="https://cdn.freelogovectors.net/svg03/sass-logo.svg" />
+<img align="left" alt="Sass" width="26px" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" />
 
 <br/>
 
